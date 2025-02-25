@@ -1148,7 +1148,7 @@ input[type=search] {
   left: .625rem
 }
 .contact-us__phone::before {
-  content: "+38";
+  content: attr(data-code);
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
