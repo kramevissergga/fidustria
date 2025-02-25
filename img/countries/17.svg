@@ -1,0 +1,28 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_304_1370" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="21" height="20">
+<path d="M3.59592 0H16.4306C18.3991 0 20.0001 1.60315 20.0001 3.57424V16.4258C20.0001 18.3969 18.3991 20 16.4306 20H3.59592C1.62741 20 0.0263672 18.3969 0.0263672 16.4258V3.57424C0.0263672 1.60315 1.62741 0 3.59592 0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_304_1370)">
+<mask id="mask1_304_1370" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-6" y="0" width="31" height="20">
+<path d="M24.7506 0H-5.06567V19.6846H24.7506V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_304_1370)">
+<path d="M26.4304 9.82922H-6.77173V19.6584H26.4304V9.82922Z" fill="#00A1DE"/>
+<path d="M26.4304 0H-6.77173V9.82918H26.4304V0Z" fill="#ED2939"/>
+<path d="M26.4304 6.43884H-6.77173V13.2194H26.4304V6.43884Z" fill="white"/>
+</g>
+</g>
+<path style="mix-blend-mode:multiply" opacity="0.3" d="M16.4042 0H3.56955C1.59814 0 0 1.60024 0 3.57424V16.4258C0 18.3998 1.59814 20 3.56955 20H16.4042C18.3756 20 19.9738 18.3998 19.9738 16.4258V3.57424C19.9738 1.60024 18.3756 0 16.4042 0Z" fill="url(#paint0_radial_304_1370)"/>
+<defs>
+<radialGradient id="paint0_radial_304_1370" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(7.03412 -1.05125) scale(22.7297 22.7595)">
+<stop stop-color="white"/>
+<stop offset="0.3" stop-color="#FCFCFC"/>
+<stop offset="0.4" stop-color="#F3F3F3"/>
+<stop offset="0.5" stop-color="#E4E4E5"/>
+<stop offset="0.6" stop-color="#CFD0D0"/>
+<stop offset="0.7" stop-color="#B4B4B5"/>
+<stop offset="0.8" stop-color="#939394"/>
+<stop offset="0.9" stop-color="#58595B"/>
+</radialGradient>
+</defs>
+</svg>

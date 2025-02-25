@@ -1,0 +1,27 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_304_1061" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<path d="M3.57424 20H16.4258C18.3969 20 20 18.3968 20 16.4257V3.57424C20 1.60315 18.3969 -3.24249e-05 16.4258 -3.24249e-05H3.57424C1.60315 -3.24249e-05 0 1.60315 0 3.57424V16.4257C0 18.3968 1.60315 20 3.57424 20Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_304_1061)">
+<mask id="mask1_304_1061" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-6" y="-1" width="32" height="22">
+<path d="M25.4138 20.6833H-5.78198V-0.341625H25.4138V20.6833Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_304_1061)">
+<path d="M-5.78198 22.7069H25.4138V-2.39165H-5.78198V22.7069Z" fill="white"/>
+<path d="M-5.78198 22.7069H25.4138V10.1445H-5.78198V22.7069Z" fill="#CE1126"/>
+</g>
+</g>
+<path style="mix-blend-mode:multiply" opacity="0.3" d="M16.4258 20H3.57424C1.60315 20 0 18.3968 0 16.4257V3.57424C0 1.60315 1.60315 -3.24249e-05 3.57424 -3.24249e-05H16.4258C18.3969 -3.24249e-05 20 1.60315 20 3.57424V16.4257C20 18.3968 18.3969 20 16.4258 20Z" fill="url(#paint0_radial_304_1061)"/>
+<defs>
+<radialGradient id="paint0_radial_304_1061" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12.9829 21.025) rotate(180) scale(22.7595 22.7596)">
+<stop stop-color="white"/>
+<stop offset="0.3" stop-color="#FCFCFC"/>
+<stop offset="0.4" stop-color="#F3F3F3"/>
+<stop offset="0.5" stop-color="#E4E4E5"/>
+<stop offset="0.6" stop-color="#CFD0D0"/>
+<stop offset="0.7" stop-color="#B4B4B5"/>
+<stop offset="0.8" stop-color="#939394"/>
+<stop offset="0.9" stop-color="#58595B"/>
+</radialGradient>
+</defs>
+</svg>
