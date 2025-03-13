@@ -1373,9 +1373,6 @@ body {
   margin-top: .25rem;
   background: url(../img/services/logo.svg) no-repeat center/contain
 }
-.page-home__services {
-  margin-bottom: 1.875rem
-}
 .why-us-srv {
   background-color: #fff
 }
@@ -1715,6 +1712,9 @@ body {
 .item-bundle__button {
   width: 100%
 }
+.services__blog {
+  padding-bottom: 6.25rem
+}
 .services__formation {
   background-color: #fff
 }
@@ -1806,6 +1806,9 @@ body {
 }
 .license-srv__title:not(:last-child) {
   margin-bottom: 3.125rem
+}
+.services__property {
+  padding-bottom: 6.25rem
 }
 .services__property .info-srv__list li {
   font-size: 1.25rem
@@ -2786,9 +2789,6 @@ body {
   .logo-list li:not(:last-child) {
     margin-bottom: 1rem
   }
-  .page-home__services {
-    margin-bottom: 1.25rem
-  }
   .why-us-srv__title:not(:last-child) {
     margin-bottom: 1.875rem
   }
@@ -2896,6 +2896,9 @@ body {
   .item-bundle__list li {
     font-size: .875rem
   }
+  .services__blog {
+    padding-bottom: 4.375rem
+  }
   .services__formation {
     padding: 0
   }
@@ -2921,6 +2924,9 @@ body {
   }
   .license-srv__title:not(:last-child) {
     margin-bottom: 1.875rem
+  }
+  .services__property {
+    padding-bottom: 4.375rem
   }
   .services__property .info-srv__list li {
     font-size: 1rem
